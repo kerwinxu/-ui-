@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "小徐桌面ui自动化", "小徐桌面ui自动化\小徐桌面ui自动化.csproj", "{68017C3B-4EFB-426C-8632-052EA4BA5234}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68017C3B-4EFB-426C-8632-052EA4BA5234}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68017C3B-4EFB-426C-8632-052EA4BA5234}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68017C3B-4EFB-426C-8632-052EA4BA5234}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68017C3B-4EFB-426C-8632-052EA4BA5234}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E3EEDE1-C899-48A6-A72F-784811203293}
+	EndGlobalSection
+EndGlobal
